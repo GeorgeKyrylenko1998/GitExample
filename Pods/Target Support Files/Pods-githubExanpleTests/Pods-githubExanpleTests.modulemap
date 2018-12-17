@@ -1,0 +1,6 @@
+framework module Pods_githubExanpleTests {
+  umbrella header "Pods-githubExanpleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
